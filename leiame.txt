@@ -1,2 +1,6 @@
 Este é um arquivo de teste
 Nova linha adicionada
+
+ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
+-Data: 2025-04-14
+-Autor: 2023019867
