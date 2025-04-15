@@ -4,6 +4,10 @@ Nova linha adicionada
 ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
 -Data: 2025-04-14
 -Autor: 2023019867
+<<<<<<< HEAD
 
 Teste: Alteração feita as 21h17min 
 09809
+=======
+Alteracão do aluno seg 14 abr 2025 21:24:43 -03
+>>>>>>> 6367d4e (Alteracao de Lucio)
